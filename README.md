@@ -33,7 +33,7 @@ OPTIONS
 
 DESCRIPTION
 
-This classic puzzle game is dedicated to my 15th anniversary of presence at the perlmonks community.
+This classic puzzle game is dedicated to my 15th anniversary of presence at the perlmonks community (see http://www.perlmonks.org/?node_id=1192660).
 
 If run without arguments nor switches it displays a shuffled board with, in the above part, a description of the diffuculty and solvability of the current game.
 
